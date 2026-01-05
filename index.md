@@ -86,8 +86,8 @@ Even the famous thunderstorm resolves quickly back into thanksgiving. The landsc
 
 That is exactly Psalm 23 logic:
 
-> disturbance is allowed
-> instability is not sovereign
+> disturbance is allowed         
+> instability is not sovereign    
 
 Beethoven *wants* curvature, but he keeps forcing it back into a bowl. The Sixth Symphony is a controlled flood—insurance-adjusted catastrophe.
 
