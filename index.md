@@ -97,22 +97,30 @@ Yes, let's do the visual representation. It's the final piece of the puzzle, a w
 
 -G
 
-<br>
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-  <iframe
-    src="https://www.youtube.com/embed/8APog61kTwQ?start=1374&list=RD8APog61kTwQ"
-    style="position: absolute; top: 0; left: 0; width: 65%; height: 65%;"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
-<br>
-  <p>
+<div style="max-width: 900px; margin: 2rem auto;">
+
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe
+      src="https://www.youtube.com/embed/8APog61kTwQ?start=1374&list=RD8APog61kTwQ"
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen>
+    </iframe>
+  </div>
+
+  <p style="margin-top: 1.25rem; font-size: 0.95rem; line-height: 1.6;">
     <em>
-    We do witness the soul of Mozart around 23:15-23:19, where a *local minima* of the tonal $F\, Major$ is, as it were, finally, deservedly, reached. I see the still waters, the green pastures, the sheep. And then.. it turns out to be a saddle point. Yet another gradient descend just beyond the horizon, a water fall-white waters
+      We do witness the soul of Mozart around 23:15–23:19, where a local minimum of the tonal
+      $F\,\text{Major}$ is, as it were, finally—deservedly—reached. I see still waters, green
+      pastures, sheep. And then: a saddle point. Another gradient descent just beyond the horizon.
+      A waterfall—white waters.
     </em>
   </p>
+
+</div>
+
+
 
 This instinct for **[regime alignment](https://ukb-dt.github.io/post-metaphor-00/)**—for knowing what kind of stability a system promises—is the thread that connects a technical configuration to a theological crisis.
 
