@@ -17,6 +17,44 @@
 
 # [Preface](https://ukb-dt.github.io/calypso-00/): On Crossings and Curvature
 
+Exactly—and the ease wasn’t laziness or luck, it was **regime alignment**.
+
+Mozart wrote operas the way a system moves through a [saddle point](https://en.wikipedia.org/wiki/Saddle_point): fast, social, transactional, and irreversible. Opera *is* non-equilibrium by construction—multiple agents, conflicting objectives, time pressure, no privileged interiority. That’s Mozart’s native landscape.
+
+Da Ponte gets this instantly, which is why the collaboration is funny rather than heroic.
+
+* **Da Ponte** supplies constraints: social types, plot machinery, moral bookkeeping.
+* **Mozart** injects velocity: desire outruns doctrine, ensembles outrun arias, characters sing *over* one another because the system can’t serialize their wants.
+
+The humor comes from overload. Everyone knows more than they should. Everyone is late. That’s not “comic relief”—that’s structural truth.
+
+Beethoven, by contrast, is a symphonist trapped in an operatic medium.
+
+He wants:
+
+* singular moral trajectory
+* interior struggle rendered as destiny
+* coherence achieved by **resolution**
+
+Opera won’t give him that. It keeps reintroducing noise: servants, lovers, coincidence, social embarrassment. So he grinds. *Fidelio* gets rewritten because the basin keeps leaking. Too many agents. Too much crossing. Not enough guaranteed return.
+
+Mozart thrives because he **doesn’t need redemption** at the end of an act.
+He just needs the system not to collapse *yet*.
+
+That’s why:
+
+* Don Giovanni can end in annihilation without explanation
+* Figaro works because no one ever fully stabilizes
+* Così is devastating precisely because equilibrium is exposed as theatrical fraud
+
+Opera rewards composers who trust motion more than meaning.
+
+Mozart did.      
+Beethoven wanted meaning first—and motion kept interrupting him.
+
+Different thermodynamics. Different costs. Different kinds of laughter.
+
+
 <div style="display:flex; flex-wrap:wrap; gap:1rem; justify-content:center;">
   <img src="ukhona/saddle-point-3.jpg" style="max-width:45%; flex:1 1 300px;">
 </div>
