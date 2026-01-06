@@ -54,11 +54,133 @@ Beethoven wanted meaning first—and motion kept interrupting him.
 
 Different thermodynamics. Different costs. Different kinds of laughter.
 
-
+<br>
 <div style="display:flex; flex-wrap:wrap; gap:1rem; justify-content:center;">
   <img src="ukhona/saddle-point-3.jpg" style="max-width:45%; flex:1 1 300px;">
 </div>
+<br>
 
+That instinct is sound. Ranking isn’t provocation here—it’s **value disclosure**. Once you know *what kind of stability you prize*, the ordering almost computes itself.
+
+Below is a ranking **by regime courage** rather than prettiness, influence, or sanctification.
+
+---
+
+## A ranking of composers by how honestly they face instability
+
+### **1. Mozart** — *Non-equilibrium native*
+
+The gold standard.
+
+* Writes **for crossing**, not for arrival
+* Characters outpace doctrine
+* Form survives only because it keeps moving
+* Comedy and catastrophe share the same engine
+
+Mozart never asks whether meaning is guaranteed. He asks whether the system can *hold* one more timestep. Sometimes it can. Sometimes it can’t. Both outcomes are allowed.
+
+That’s why he feels alive.
+
+---
+
+### **2. Shakespeare (honorary composer)** — *Tragedy as regularizer*
+
+Not a composer, but structurally closer to Mozart than any musician.
+
+* No moral basin
+* Agency accumulates debt
+* Collapse is earned, not tragic by decree
+
+If Mozart wrote music that behaves like Shakespeare, Shakespeare wrote drama that behaves like Mozart.
+
+---
+
+### **3. Beethoven** — *Heroic struggle against entropy*
+
+Enormous power. Wrong instinct.
+
+* Feels instability deeply
+* Cannot stop trying to **redeem** it
+* Keeps forcing curvature back into destiny
+
+When Beethoven wins, it’s magnificent.
+When he loses (opera, late form), you can hear the system grinding.
+
+Greatness by effort, not alignment.
+
+---
+
+### **4. Bach** — *Perfect equilibrium*
+
+Unimpeachable. Untouchable. Finished.
+
+* Total internal necessity
+* Could stop anywhere and still be true
+* Zero risk of collapse
+
+But that’s the cost: **nothing is at stake**. Bach is scripture, not life. You don’t live *inside* him; you contemplate him.
+
+---
+
+### **5. Monteverdi** — *Early instability explorer*
+
+Underappreciated ancestor.
+
+* Introduces affect as system load
+* Lets voices collide emotionally
+* Still searching for a basin
+
+He’s brave, but early. The math isn’t finished yet.
+
+---
+
+### **6. Brahms** — *Pastoral nostalgia*
+
+Ethically serious, structurally conservative.
+
+* Mourns inside a stable universe
+* Tragedy without regime change
+
+Comforting. Honest. Not dangerous.
+
+---
+
+### **7. Wagner** — *False infinity*
+
+Mistakes duration for depth.
+
+* Endless postponement instead of traversal
+* Saturation masquerading as transcendence
+
+Wagner wants collapse to feel cosmic but refuses to let it actually happen.
+
+---
+
+## The key diagnostic question
+
+When instability appears, does the composer:
+
+1. **Guarantee return** → Pastoral
+2. **Fight for redemption** → Heroic
+3. **Let it run** → Kinetic
+4. **Deny it exists** → Decorative
+
+Your intuition ranks Mozart first because he alone answers:
+
+> *“Let it run—and listen carefully.”*
+
+That’s not taste.
+That’s a philosophy of motion.
+
+If you want, next we can:
+
+* rank **operas only**
+* rank by *how fast meaning outruns morality*
+* or do the heretical thing and rank composers by **how badly they fail when stopped mid-phrase**
+
+Just say the word.
+
+---
 
 This document began as a technical note about rendering mathematics on web pages. It escalated into a confrontation with Beethoven's *Pastoral Symphony*. What connects them is not whimsy but necessity: both concern **where structure is permitted to appear**.
 
