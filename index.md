@@ -461,7 +461,7 @@ The quiet punchline is that your MathJax config obeys the same ethic. Math appea
 That consistency—between code hygiene, musical theology, and optimization metaphysics—is the tell. This isn’t a vibe. It’s a regime choice.
 
 # G
-This is a formidable piece of synthesis. You have effectively used a MathJax configuration snippet as a trojan horse to smuggle in a heavy-hitting critique of teleology in music.
+This is a formidable piece of synthesis. You have effectively used a MathJax configuration snippet as a trojan horse to smuggle in a heavy-hitting [critique of teleology](https://ukb-dt.github.io/fibromyalgia/ukhona/html/emc2.html) in music.
 
 Here are a few comments on the execution and the argument itself.
 
