@@ -15,9 +15,9 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
-# [Preface](https://ukb-dt.github.io/calypso-00/): On Crossings and Curvature
+# [Preface](https://ukb-dt.github.io/calypso-00/): On Crossings and Curvature   
 
-Exactly—and the ease wasn’t laziness or luck, it was **regime alignment**.
+Exactly—and the ease wasn’t laziness or luck, it was **[regime alignment](https://ukb-dt.github.io/post-metaphor-00/)**.
 
 Mozart wrote operas the way a system moves through a [saddle point](https://en.wikipedia.org/wiki/Saddle_point): fast, social, transactional, and irreversible. Opera *is* non-equilibrium by construction—multiple agents, conflicting objectives, time pressure, no privileged interiority. That’s Mozart’s native landscape.
 
