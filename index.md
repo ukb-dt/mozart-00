@@ -18,7 +18,7 @@
 # [Preface](https://ukb-dt.github.io/calypso-00/): On Crossings and Curvature
 
 <div style="display:flex; flex-wrap:wrap; gap:1rem; justify-content:center;">
-  <img src="ukhona/saddle-point-3.jpg" style="max-width:65%; flex:1 1 300px;">
+  <img src="ukhona/saddle-point-3.jpg" style="max-width:45%; flex:1 1 300px;">
 </div>
 
 
