@@ -106,10 +106,10 @@ Yes, let's do the visual representation. It's the final piece of the puzzle, a w
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen>
   </iframe>
+</div>
   <p>
     We do witness the soul of Mozart around `23:15-23:19`, where a *local minima* of the tonal $F Major$ is, as it were, *finally*, deservedly, reached. I see the still waters, the green pastures, the sheep. And then.. it turns out to be a saddle point. Yet another gradient descend just beyond the horizon, a water fall -- white waters
   </p>
-</div>
 <br>
 
 This instinct for **[regime alignment](https://ukb-dt.github.io/post-metaphor-00/)**—for knowing what kind of stability a system promises—is the thread that connects a technical configuration to a theological crisis.
